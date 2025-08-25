@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Shiv Nadar Chennai
-tags: example-tag
+tags: snuchennai-owasp-chapter-university
 region: Asia
 country: India
 meetup-group:
