@@ -31,7 +31,7 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 
 ## Welcome
 
-![](/assets/images/logo.jpg)
+![](/assets/images/logo.jpeg)
 
 OWASP SNU Chennai is a student group that helps everyone learn about security. We host events and activities so students can learn, connect, and grow in cybersecurity together.
 
