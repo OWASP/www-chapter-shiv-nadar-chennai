@@ -30,7 +30,10 @@ This is an example of a Project or Chapter Page.  Please change these items to i
 -->
 
 ## Welcome
-Include some information here about your chapter
+
+![OWASP Shiv Nadar Chennai Chapter Logo](assets/images/logo.jpg)
+
+OWASP SNU Chennai is a student group that helps everyone learn about security. We host events and activities so students can learn, connect, and grow in cybersecurity together.
 
 ## Participation
 The Open Worldwide Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects, tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
